@@ -43,14 +43,14 @@ _BUNDLE_ATTRS = {
 _SHARED_SUITE_TEST_ATTRS  = {
     x: None
     for x in [
-        "compatible_with",
-        "deprecation",
-        "distribs",
-        "features",
-        "licenses",
-        "restricted_to",
-        "tags",
-        "testonly",
+        # "compatible_with",
+        # "deprecation",
+        # "distribs",
+        # "features",
+        # "licenses",
+        # "restricted_to",
+        # "tags",
+        # "testonly",
         "visibility"
     ]
 }
